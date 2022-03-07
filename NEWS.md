@@ -1,6 +1,6 @@
 # later (development version)
 
-
+* Set file-level variables as `static` to avoid triggering `-Wmissing-variable-declarations` (@michaelchirico)
 
 # later 1.3.0
 
